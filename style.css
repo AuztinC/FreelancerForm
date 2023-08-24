@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formContainer{
+    width: 400px;
+}
+table{
+    width: 100%;
+}
+table th{
+    text-align: left;
+    padding-bottom: 15px;
+}
